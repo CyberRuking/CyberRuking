@@ -1,6 +1,6 @@
 ## CyberRuking
-- hello 
-ruking ls CyberSecurity white hat
-tools tester ruking 
-happy hacking
+ - hello and Assalamualaikum 
+ - ruking ls CyberSecurity white hat
+ - tools tester ruking 
+ - happy hacking
 CyberSecurityTester
